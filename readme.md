@@ -1,0 +1,1 @@
+different matlab functions tried as practice for matlab.

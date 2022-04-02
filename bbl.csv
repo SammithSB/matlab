@@ -1,0 +1,431 @@
+,Match_ID,Season,Team_1,Team_2,Toss_Winner,Toss_Decision,Venue,City,Result,Winner,Win_Margin,Win_Type,Player_Of_Match
+0,40546,2011-12,Brisbane Heat,Sydney Sixers,Brisbane Heat,Batting,Sydney Cricket Ground,Sydney,True,Sydney Sixers,7,wickets,BJ Haddin
+1,40547,2011-12,Melbourne Stars,Sydney Thunder,Sydney Thunder,Bowling,Melbourne Cricket Ground,Melbourne,True,Sydney Thunder,6,wickets,DA Warner
+2,40548,2011-12,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Bowling,Adelaide Oval,Adelaide,True,Adelaide Strikers,67,runs,M Klinger
+3,40549,2011-12,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Hobart Hurricanes,31,runs,BW Hilfenhaus
+4,40550,2011-12,Melbourne Stars,Brisbane Heat,Melbourne Stars,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Melbourne Stars,8,runs,RJ Quiney
+5,40551,2011-12,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,42,runs,TR Birt
+6,40552,2011-12,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Perth Scorchers,8,wickets,SE Marsh
+7,40553,2011-12,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Batting,"Stadium Australia, Sydney",Sydney,True,Sydney Thunder,6,wickets,CH Gayle
+8,40554,2011-12,Sydney Sixers,Melbourne Stars,Sydney Sixers,Batting,Sydney Cricket Ground,Sydney,True,Sydney Sixers,2,runs,DJ Bravo
+9,40555,2011-12,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Batting,Adelaide Oval,Adelaide,True,Hobart Hurricanes,14,runs,XJ Doherty
+10,40556,2011-12,Perth Scorchers,Brisbane Heat,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,10,runs,MJ North
+11,40557,2011-12,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,Batting,"Stadium Australia, Sydney",Sydney,True,Melbourne Renegades,6,runs,Shahid Afridi
+12,40558,2011-12,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,5,wickets,Naved-ul-Hasan
+13,40559,2011-12,Sydney Sixers,Melbourne Renegades,Sydney Sixers,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,8,wickets,AB McDonald
+14,40560,2011-12,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Adelaide Strikers,31,runs,TLW Cooper
+15,40561,2011-12,Perth Scorchers,Melbourne Stars,Perth Scorchers,Batting,Melbourne Cricket Ground,Melbourne,True,Perth Scorchers,8,runs,HH Gibbs
+16,40562,2011-12,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,3,runs,ML Hayden
+17,40563,2011-12,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,11,runs,DJ Hussey
+18,40564,2011-12,Sydney Sixers,Sydney Thunder,Sydney Sixers,Batting,"Stadium Australia, Sydney",Sydney,True,Sydney Sixers,17,runs,MA Starc
+19,40565,2011-12,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,42,runs,GB Hogg
+20,40566,2011-12,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Batting,"Bellerive Oval, Hobart",Hobart,True,Melbourne Stars,19,runs,LJ Wright
+21,40567,2011-12,Sydney Sixers,Adelaide Strikers,Sydney Sixers,Batting,Adelaide Oval,Adelaide,True,Sydney Sixers,64,runs,SNJ O'Keefe
+22,40568,2011-12,Sydney Thunder,Perth Scorchers,Sydney Thunder,Batting,"Stadium Australia, Sydney",Sydney,True,Perth Scorchers,9,wickets,NM Coulter-Nile
+23,40569,2011-12,Brisbane Heat,Melbourne Renegades,Brisbane Heat,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Brisbane Heat,12,runs,DL Vettori
+24,40570,2011-12,Brisbane Heat,Sydney Thunder,Sydney Thunder,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,91,runs,DT Christian
+25,40571,2011-12,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,7,wickets,OA Shah
+26,40572,2011-12,Sydney Sixers,Perth Scorchers,Sydney Sixers,Batting,Sydney Cricket Ground,Sydney,True,Sydney Sixers,1,run,MA Starc
+27,40573,2011-12,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,6,wickets,CJ McKay
+28,40574,2011-12,Perth Scorchers,Melbourne Stars,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,11,runs,MR Marsh
+29,40575,2011-12,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Batting,"Bellerive Oval, Hobart",Hobart,True,Sydney Sixers,7,runs,NJ Maddinson
+30,40576,2011-12,Perth Scorchers,Sydney Sixers,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Sydney Sixers,7,wickets,MC Henriques
+31,46858,2012-13,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,8,wickets,AJ Finch
+32,46859,2012-13,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,7,wickets,BJ Haddin
+33,46860,2012-13,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Hobart Hurricanes,8,wickets,TR Birt
+34,46861,2012-13,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Adelaide Strikers,6,wickets,PJ Hughes
+35,46862,2012-13,Perth Scorchers,Melbourne Stars,Melbourne Stars,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Melbourne Stars,24,runs,SL Malinga
+36,46863,2012-13,Adelaide Strikers,Brisbane Heat,Brisbane Heat,Bowling,Adelaide Oval,Adelaide,True,Brisbane Heat,3,wickets,LA Pomersbach
+37,46864,2012-13,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Bowling,"Stadium Australia, Sydney",Sydney,True,Melbourne Renegades,5,wickets,AW O'Brien
+38,46865,2012-13,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,4,wickets,CJ McKay
+39,46866,2012-13,Sydney Sixers,Perth Scorchers,Perth Scorchers,Bowling,Sydney Cricket Ground,Sydney,True,Perth Scorchers,7,wickets,MA Beer
+40,46867,2012-13,Brisbane Heat,Perth Scorchers,Perth Scorchers,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Perth Scorchers,9,wickets,NM Coulter-Nile
+41,46868,2012-13,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,7,wickets,MN Samuels
+42,46869,2012-13,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Bowling,"Stadium Australia, Sydney",Sydney,True,Adelaide Strikers,51,runs,KW Richardson
+43,46870,2012-13,Melbourne Stars,Sydney Sixers,Sydney Sixers,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,21,runs,GJ Maxwell
+44,46871,2012-13,Brisbane Heat,Melbourne Renegades,Brisbane Heat,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,6,wickets,BCJ Cutting
+45,46872,2012-13,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,30,runs,RT Ponting
+46,46873,2012-13,Sydney Sixers,Adelaide Strikers,Sydney Sixers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,9,wickets,TP Ludeman
+47,46874,2012-13,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,Bowling,Sydney Cricket Ground,Sydney,True,Hobart Hurricanes,7,wickets,RT Ponting
+48,46875,2012-13,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Batting,Adelaide Oval,Adelaide,True,Melbourne Stars,8,runs,BJ Hodge
+49,46876,2012-13,Sydney Thunder,Brisbane Heat,Sydney Thunder,Batting,"Stadium Australia, Sydney",Sydney,True,Brisbane Heat,5,wickets,DT Christian
+50,46877,2012-13,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,51,runs,SE Marsh
+51,46878,2012-13,Sydney Thunder,Sydney Sixers,Sydney Thunder,Batting,"Stadium Australia, Sydney",Sydney,True,Sydney Sixers,4,wickets,DP Hughes
+52,46879,2012-13,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,6,wickets,TD Paine
+53,46880,2012-13,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,48,runs,M Muralitharan
+54,46881,2012-13,Brisbane Heat,Melbourne Stars,Melbourne Stars,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,24,runs,JR Hopes
+55,46882,2012-13,Sydney Thunder,Perth Scorchers,Sydney Thunder,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,9,wickets,JP Behrendorff
+56,46883,2012-13,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Batting,"Bellerive Oval, Hobart",Hobart,True,Adelaide Strikers,38,runs,CJ Boyce
+57,46884,2012-13,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Renegades,9,wickets,AJ Finch
+58,46885,2012-13,Brisbane Heat,Sydney Sixers,Brisbane Heat,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Sydney Sixers,5,wickets,MJ Lumb
+59,46886,2012-13,Melbourne Stars,Sydney Thunder,Melbourne Stars,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,13,runs,CH Gayle
+60,46887,2012-13,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,Batting,Sydney Cricket Ground,Sydney,True,Melbourne Renegades,29,runs,AD Hales
+61,46888,2012-13,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Batting,Adelaide Oval,Adelaide,True,Perth Scorchers,98,runs,SE Marsh
+62,46889,2012-13,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Brisbane Heat,8,wickets,LA Pomersbach
+63,46890,2012-13,Brisbane Heat,Melbourne Renegades,Brisbane Heat,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Brisbane Heat,15,runs,LA Pomersbach
+64,46891,2012-13,Melbourne Stars,Perth Scorchers,Perth Scorchers,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,8,wickets,SE Marsh
+65,46892,2012-13,Brisbane Heat,Perth Scorchers,Brisbane Heat,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Brisbane Heat,34,runs,NM Hauritz
+66,53185,2013-14,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,76,runs,LJ Wright
+67,53187,2013-14,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,6,wickets,NJ Maddinson
+68,53189,2013-14,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,False,,0,,
+69,53191,2013-14,Perth Scorchers,Brisbane Heat,Perth Scorchers,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,3,wickets,CA Lynn
+70,53193,2013-14,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,6,runs,Yasir Arafat
+71,53195,2013-14,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Bowling,"Stadium Australia, Sydney",Sydney,True,Adelaide Strikers,6,runs,MEK Hussey
+72,53197,2013-14,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Hobart Hurricanes,3,wickets,BR Dunk
+73,53199,2013-14,Melbourne Stars,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Melbourne Stars,77,runs,GJ Maxwell
+74,53201,2013-14,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,57,runs,AJ Finch
+75,53203,2013-14,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,6,wickets,M Klinger
+76,53205,2013-14,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,Batting,"Bellerive Oval, Hobart",Hobart,True,Melbourne Renegades,51,runs,JL Pattinson
+77,53207,2013-14,Sydney Thunder,Melbourne Stars,Sydney Thunder,Batting,"Stadium Australia, Sydney",Sydney,True,Melbourne Stars,7,wickets,BJ Hodge
+78,53209,2013-14,Sydney Sixers,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Sydney Sixers,4,runs,B Lee
+79,53211,2013-14,Sydney Thunder,Perth Scorchers,Sydney Thunder,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,6,wickets,SM Katich
+80,53213,2013-14,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Stars,9,wickets,CL White
+81,53215,2013-14,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Sydney Sixers,6,wickets,MJ Lumb
+82,53217,2013-14,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,6,runs,NM Coulter-Nile
+83,53219,2013-14,Brisbane Heat,Sydney Thunder,Brisbane Heat,Batting,"Stadium Australia, Sydney",Sydney,True,Brisbane Heat,48,runs,CA Lynn
+84,53221,2013-14,Adelaide Strikers,Melbourne Stars,Adelaide Strikers,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,8,wickets,JP Faulkner
+85,53223,2013-14,Perth Scorchers,Sydney Sixers,Perth Scorchers,Batting,Sydney Cricket Ground,Sydney,True,,0,SuperOver,Yasir Arafat
+86,53225,2013-14,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,73,runs,BR Dunk
+87,53227,2013-14,Brisbane Heat,Melbourne Stars,Brisbane Heat,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Melbourne Stars,3,wickets,LJ Wright
+88,53229,2013-14,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Sydney Thunder,9,wickets,GS Sandhu
+89,53231,2013-14,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Batting,Sydney Cricket Ground,Sydney,True,Sydney Sixers,7,runs,SPD Smith
+90,53233,2013-14,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,5,runs,CJ Simmons
+91,53235,2013-14,Brisbane Heat,Adelaide Strikers,Brisbane Heat,Batting,Adelaide Oval,Adelaide,True,Brisbane Heat,32,runs,DL Vettori
+92,53237,2013-14,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Sydney Sixers,2,runs,MC Henriques
+93,53239,2013-14,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,5,wickets,LJ Wright
+94,53241,2013-14,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,Batting,Adelaide Oval,Adelaide,True,Melbourne Renegades,1,run,DJ Bravo
+95,53243,2013-14,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,40,runs,BR Dunk
+96,53245,2013-14,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,"Stadium Australia, Sydney",Sydney,True,Sydney Sixers,8,wickets,NM Lyon
+97,53247,2013-14,Melbourne Stars,Perth Scorchers,Melbourne Stars,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,20,runs,JW Hastings
+98,53249,2013-14,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Batting,Melbourne Cricket Ground,Melbourne,True,Hobart Hurricanes,7,wickets,CJ Boyce
+99,53251,2013-14,Perth Scorchers,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Perth Scorchers,5,runs,CJ Simmons
+100,53253,2013-14,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,39,runs,GB Hogg
+101,61819,2014-15,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,8,wickets,TP Ludeman
+102,61821,2014-15,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,8,wickets,NJ Maddinson
+103,61823,2014-15,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Hobart Hurricanes,52,runs,DJG Sammy
+104,61825,2014-15,Sydney Thunder,Brisbane Heat,Brisbane Heat,Bowling,"Stadium Australia, Sydney",Sydney,True,Sydney Thunder,56,runs,JH Kallis
+105,61827,2014-15,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Adelaide Strikers,1,wicket,JP Behrendorff
+106,61829,2014-15,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Sydney Sixers,7,wickets,MC Henriques
+107,61831,2014-15,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,35,runs,M Klinger
+108,61833,2014-15,Sydney Sixers,Sydney Thunder,Sydney Thunder,Bowling,"Stadium Australia, Sydney",Sydney,True,Sydney Sixers,16,runs,AC Blizzard
+109,61835,2014-15,Brisbane Heat,Melbourne Stars,Melbourne Stars,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,1,run,RM Duffield
+110,61837,2014-15,Perth Scorchers,Sydney Sixers,Perth Scorchers,Batting,Sydney Cricket Ground,Sydney,True,Perth Scorchers,36,runs,AJ Tye
+111,61839,2014-15,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,8,wickets,JL Pattinson
+112,61841,2014-15,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,8,wickets,TP Ludeman
+113,61843,2014-15,Sydney Thunder,Perth Scorchers,Sydney Thunder,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Sydney Thunder,20,runs,JH Kallis
+114,61845,2014-15,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,6,wickets,TD Paine
+115,61847,2014-15,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Stars,112,runs,MA Beer
+116,61849,2014-15,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Adelaide Strikers,5,wickets,TM Head
+117,61851,2014-15,Sydney Sixers,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,,0,SuperOver,JP Faulkner
+118,61853,2014-15,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,Bowling,Adelaide Oval,Adelaide,True,Perth Scorchers,18,runs,GB Hogg
+119,61873,2014-15,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Melbourne Renegades,37,runs,BA Stokes
+120,61857,2014-15,Brisbane Heat,Perth Scorchers,Brisbane Heat,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,8,wickets,MA Carberry
+121,61855,2014-15,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Bowling,Sydney Showground Stadium,Sydney,True,Hobart Hurricanes,5,wickets,JK Reed
+122,61861,2014-15,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,3,wickets,GJ Maxwell
+123,61863,2014-15,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Batting,"Bellerive Oval, Hobart",Hobart,True,Perth Scorchers,18,runs,JP Behrendorff
+124,61865,2014-15,Brisbane Heat,Sydney Sixers,Sydney Sixers,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Sydney Sixers,6,wickets,DE Bollinger
+125,61867,2014-15,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Bowling,Adelaide Oval,Adelaide,False,,0,,
+126,61869,2014-15,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,5,wickets,Shakib Al Hasan
+127,61871,2014-15,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,Batting,Sydney Cricket Ground,Sydney,True,Adelaide Strikers,23,runs,J Botha
+128,61881,2014-15,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,18,runs,CA Lynn
+129,61875,2014-15,Sydney Thunder,Melbourne Stars,Melbourne Stars,Bowling,Sydney Showground Stadium,Sydney,True,Melbourne Stars,8,wickets,KP Pietersen
+130,61877,2014-15,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Adelaide Strikers,22,runs,TM Head
+131,61879,2014-15,Perth Scorchers,Melbourne Stars,Perth Scorchers,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,3,wickets,PSP Handscomb
+132,61859,2014-15,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,4,wickets,JC Silk
+133,61883,2014-15,Sydney Sixers,Adelaide Strikers,Sydney Sixers,Batting,Adelaide Oval,Adelaide,True,Sydney Sixers,87,runs,NJ Maddinson
+134,61885,2014-15,Perth Scorchers,Melbourne Stars,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,18,runs,AJ Tye
+135,61887,2014-15,Sydney Sixers,Perth Scorchers,Sydney Sixers,Batting,"Manuka Oval, Canberra",Canberra,True,Perth Scorchers,4,wickets,SE Marsh
+136,69913,2015-16,Sydney Thunder,Sydney Sixers,Sydney Thunder,Batting,Sydney Showground Stadium,Sydney,True,Sydney Thunder,36,runs,MEK Hussey
+137,69915,2015-16,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Bowling,Adelaide Oval,Adelaide,True,Adelaide Strikers,19,runs,AI Ross
+138,69917,2015-16,Brisbane Heat,Melbourne Renegades,Brisbane Heat,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Melbourne Renegades,7,wickets,AJ Finch
+139,69919,2015-16,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Batting,Sydney Cricket Ground,Sydney,True,Sydney Sixers,95,runs,BJ Haddin
+140,69921,2015-16,Sydney Thunder,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Sydney Thunder,1,run,UT Khawaja
+141,69923,2015-16,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Adelaide Strikers,4,wickets,AU Rashid
+142,69925,2015-16,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,20,runs,TD Paine
+143,69927,2015-16,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Sydney Sixers,3,wickets,MJ Lumb
+144,69929,2015-16,Brisbane Heat,Perth Scorchers,Brisbane Heat,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,9,wickets,DJ Willey
+145,69931,2015-16,Sydney Sixers,Melbourne Stars,Sydney Sixers,Batting,Sydney Cricket Ground,Sydney,True,Melbourne Stars,5,wickets,GJ Maxwell
+146,69933,2015-16,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Batting,Sydney Showground Stadium,Sydney,True,Sydney Thunder,7,wickets,JH Kallis
+147,69935,2015-16,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Hobart Hurricanes,15,runs,CA Lynn
+148,69937,2015-16,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Perth Scorchers,10,wickets,M Klinger
+149,69939,2015-16,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,Bowling,Adelaide Oval,Adelaide,True,Adelaide Strikers,5,wickets,TM Head
+150,69941,2015-16,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,11,runs,SW Tait
+151,69943,2015-16,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,7,wickets,LJ Wright
+152,69945,2015-16,Sydney Sixers,Perth Scorchers,Sydney Sixers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,9,wickets,DJ Willey
+153,69947,2015-16,Sydney Thunder,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,6,wickets,CA Lynn
+154,69949,2015-16,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Bowling,"Bellerive Oval, Hobart",Hobart,True,Melbourne Renegades,5,wickets,CP Tremain
+155,69951,2015-16,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,36,runs,TM Head
+156,69953,2015-16,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,8,wickets,GJ Maxwell
+157,69955,2015-16,Perth Scorchers,Sydney Thunder,Sydney Thunder,Bowling,Sydney Showground Stadium,Sydney,True,Perth Scorchers,30,runs,CT Bancroft
+158,69957,2015-16,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Adelaide Strikers,8,wickets,DPMD Jayawardene
+159,69959,2015-16,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Stars,8,wickets,MP Stoinis
+160,69961,2015-16,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Batting,"Bellerive Oval, Hobart",Hobart,True,Perth Scorchers,1,run,MA Carberry
+161,69963,2015-16,Brisbane Heat,Sydney Sixers,Brisbane Heat,Batting,Sydney Cricket Ground,Sydney,True,Brisbane Heat,6,runs,JA Burns
+162,69965,2015-16,Sydney Thunder,Melbourne Renegades,Sydney Thunder,Batting,Sydney Showground Stadium,Sydney,True,Melbourne Renegades,5,wickets,CL White
+163,69967,2015-16,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,6,wickets,AU Rashid
+164,69969,2015-16,Brisbane Heat,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Brisbane Heat,56,runs,S Badree
+165,69971,2015-16,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Thunder,46,runs,SR Watson
+166,69973,2015-16,Melbourne Stars,Perth Scorchers,Perth Scorchers,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Melbourne Stars,52,runs,BW Hilfenhaus
+167,69975,2015-16,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Adelaide Strikers,27,runs,TM Head
+168,69977,2015-16,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Sydney Thunder,8,wickets,UT Khawaja
+169,69979,2015-16,Perth Scorchers,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,7,wickets,KP Pietersen
+170,69981,2015-16,Melbourne Stars,Sydney Thunder,Sydney Thunder,Bowling,Melbourne Cricket Ground,Melbourne,True,Sydney Thunder,3,wickets,UT Khawaja
+171,78217,2016-17,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,Sydney Showground Stadium,Sydney,True,Sydney Sixers,9,wickets,MC Henriques
+172,78219,2016-17,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,Bowling,Adelaide Oval,Adelaide,True,Brisbane Heat,10,runs,BB McCullum
+173,78221,2016-17,Melbourne Renegades,Sydney Thunder,Sydney Thunder,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,49,runs,AJ Finch
+174,78223,2016-17,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Hobart Hurricanes,60,runs,
+175,78225,2016-17,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,48,runs,AJ Turner
+176,78227,2016-17,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Melbourne Stars,7,wickets,RJ Quiney
+177,78229,2016-17,Perth Scorchers,Sydney Sixers,Perth Scorchers,Batting,Sydney Cricket Ground,Sydney,True,Sydney Sixers,6,wickets,J Botha
+178,78231,2016-17,Sydney Thunder,Brisbane Heat,Brisbane Heat,Bowling,Sydney Showground Stadium,Sydney,True,Brisbane Heat,3,wickets,CA Lynn
+179,78233,2016-17,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Perth Scorchers,4,wickets,M Klinger
+180,78235,2016-17,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,7,wickets,CA Lynn
+181,78237,2016-17,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Bowling,Adelaide Oval,Adelaide,True,Adelaide Strikers,48,runs,SA Abbott
+182,78239,2016-17,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Renegades,7,runs,GB Hogg
+183,78241,2016-17,Perth Scorchers,Sydney Thunder,Sydney Thunder,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,50,runs,MR Marsh
+184,78243,2016-17,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,8,wickets,DT Christian
+185,78245,2016-17,Brisbane Heat,Sydney Sixers,Sydney Sixers,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Sydney Sixers,3,wickets,DP Hughes
+186,78247,2016-17,Melbourne Stars,Sydney Thunder,Sydney Thunder,Bowling,Sydney Showground Stadium,Sydney,True,Sydney Thunder,6,wickets,EJG Morgan
+187,78249,2016-17,Perth Scorchers,Brisbane Heat,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Brisbane Heat,9,wickets,CA Lynn
+188,78251,2016-17,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Bowling,Adelaide Oval,Adelaide,True,Adelaide Strikers,5,wickets,BR Dunk
+189,78253,2016-17,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Stars,46,runs,A Zampa
+190,78255,2016-17,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Bowling,"Bellerive Oval, Hobart",Hobart,True,Sydney Thunder,6,wickets,SR Watson
+191,78257,2016-17,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,Batting,Sydney Cricket Ground,Sydney,True,Sydney Sixers,6,wickets,BJ Haddin
+192,78259,2016-17,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,2,wickets,BW Hilfenhaus
+193,78261,2016-17,Perth Scorchers,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Perth Scorchers,27,runs,M Klinger
+194,78263,2016-17,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Hobart Hurricanes,2,wickets,BR McDermott
+195,78265,2016-17,Sydney Sixers,Sydney Thunder,Sydney Sixers,Batting,Sydney Cricket Ground,Sydney,True,Sydney Thunder,8,wickets,Fawad Ahmed
+196,78267,2016-17,Perth Scorchers,Melbourne Stars,Perth Scorchers,Batting,"Western Australia Cricket Association Ground, Perth",Perth,True,Melbourne Stars,7,wickets,MA Beer
+197,78269,2016-17,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,Bowling,Adelaide Oval,Adelaide,True,Melbourne Renegades,6,runs,MS Harris
+198,78271,2016-17,Melbourne Stars,Brisbane Heat,Melbourne Stars,Batting,Melbourne Cricket Ground,Melbourne,True,Brisbane Heat,7,wickets,MJ Swepson
+199,78273,2016-17,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Bowling,Sydney Showground Stadium,Sydney,True,Adelaide Strikers,77,runs,IS Sodhi
+200,78275,2016-17,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Melbourne Renegades,1,run,AJ Finch
+201,78277,2016-17,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Bowling,"Bellerive Oval, Hobart",Hobart,True,Perth Scorchers,7,wickets,SE Marsh
+202,78279,2016-17,Melbourne Stars,Sydney Sixers,Sydney Sixers,Bowling,Melbourne Cricket Ground,Melbourne,True,Sydney Sixers,3,wickets,SA Abbott
+203,78281,2016-17,Melbourne Stars,Perth Scorchers,Perth Scorchers,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,7,wickets,MG Johnson
+204,78283,2016-17,Brisbane Heat,Sydney Sixers,Sydney Sixers,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,,0,SuperOver,MC Henriques
+205,78285,2016-17,Sydney Sixers,Perth Scorchers,Perth Scorchers,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,9,wickets,JA Richardson
+206,84423,2017-18,Sydney Sixers,Sydney Thunder,Sydney Thunder,Bowling,Sydney Showground Stadium,Sydney,True,Sydney Thunder,5,wickets,SR Watson
+207,84424,2017-18,Brisbane Heat,Melbourne Stars,Melbourne Stars,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,15,runs,MP Stoinis
+208,84425,2017-18,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Bowling,"Bellerive Oval, Hobart",Hobart,True,Melbourne Renegades,7,wickets,DJ Bravo
+209,84426,2017-18,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,53,runs,Rashid Khan
+210,84427,2017-18,Sydney Sixers,Perth Scorchers,Perth Scorchers,Bowling,Sydney Cricket Ground,Sydney,True,Perth Scorchers,6,wickets,AJ Turner
+211,84428,2017-18,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,7,wickets,JD Wildermuth
+212,84429,2017-18,Perth Scorchers,Melbourne Stars,Melbourne Stars,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,13,runs,HWR Cartwright
+213,84430,2017-18,Sydney Thunder,Brisbane Heat,Sydney Thunder,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,6,wickets,AI Ross
+214,84431,2017-18,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Adelaide Strikers,6,runs,AT Carey
+215,84432,2017-18,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Perth Scorchers,3,wickets,MG Johnson
+216,84433,2017-18,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Aurora Stadium, Launceston",Launceston,True,Sydney Thunder,57,runs,JC Buttler
+217,84434,2017-18,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,56,runs,MG Neser
+218,84435,2017-18,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Bowling,Sydney Showground Stadium,Sydney,True,Hobart Hurricanes,9,runs,DJM Short
+219,84436,2017-18,Sydney Sixers,Perth Scorchers,Perth Scorchers,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,6,wickets,M Klinger
+220,84437,2017-18,Melbourne Stars,Brisbane Heat,Brisbane Heat,Bowling,Melbourne Cricket Ground,Melbourne,True,Brisbane Heat,9,wickets,MJ Swepson
+221,84438,2017-18,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,Bowling,"GMHBA Stadium, South Geelong, Victoria",Geelong,True,Melbourne Renegades,8,wickets,AJ Finch
+222,84439,2017-18,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,7,runs,DJM Short
+223,84440,2017-18,Brisbane Heat,Perth Scorchers,Perth Scorchers,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,49,runs,BCJ Cutting
+224,84441,2017-18,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Renegades,6,wickets,Mohammad Nabi
+225,84442,2017-18,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Batting,Sydney Showground Stadium,Sydney,True,Adelaide Strikers,25,runs,Rashid Khan
+226,84443,2017-18,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,5,runs,SW Billings
+227,84444,2017-18,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,5,wickets,AJ Turner
+228,84445,2017-18,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,8,wickets,TM Head
+229,84446,2017-18,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Hobart Hurricanes,3,runs,DJM Short
+230,84447,2017-18,Sydney Thunder,Perth Scorchers,Sydney Thunder,Batting,Sydney Showground Stadium,Sydney,True,Sydney Thunder,3,runs,UT Khawaja
+231,84448,2017-18,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Stars,23,runs,KP Pietersen
+232,84449,2017-18,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Bowling,"Traeger Park, Alice Springs",Alice Springs,True,Perth Scorchers,6,wickets,AC Agar
+233,84450,2017-18,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,8,wickets,CJ Green
+234,84451,2017-18,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,6,wickets,DT Christian
+235,84452,2017-18,Melbourne Stars,Sydney Sixers,Sydney Sixers,Bowling,Melbourne Cricket Ground,Melbourne,True,Sydney Sixers,8,wickets,NM Lyon
+236,84453,2017-18,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,11,runs,AT Carey
+237,84454,2017-18,Brisbane Heat,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,9,wickets,SA Abbott
+238,84455,2017-18,Melbourne Stars,Sydney Thunder,Sydney Thunder,Bowling,Melbourne Cricket Ground,Melbourne,True,Sydney Thunder,7,wickets,SR Watson
+239,84456,2017-18,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,5,wickets,AC Agar
+240,84457,2017-18,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Adelaide Strikers,26,runs,CA Ingram
+241,84458,2017-18,Melbourne Stars,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,5,wickets,JL Denly
+242,84459,2017-18,Melbourne Renegades,Sydney Thunder,Sydney Thunder,Bowling,"Manuka Oval, Canberra",Canberra,True,Melbourne Renegades,9,runs,KW Richardson
+243,84460,2017-18,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Bowling,"Western Australia Cricket Association Ground, Perth",Perth,True,Perth Scorchers,4,wickets,AC Voges
+244,84461,2017-18,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,3,wickets,KP Pietersen
+245,84462,2017-18,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Melbourne Renegades,26,runs,TLW Cooper
+246,84463,2017-18,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,Bowling,Perth Stadium,Perth,True,Hobart Hurricanes,71,runs,MS Wade
+247,84464,2017-18,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,1,run,TM Head
+248,84465,2017-18,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,25,runs,J Weatherald
+249,88817,2018-19,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Adelaide Strikers,5,wickets,Rashid Khan
+250,88818,2018-19,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,4,wickets,Usman Shinwari
+251,88819,2018-19,Sydney Thunder,Melbourne Stars,Melbourne Stars,Bowling,"Manuka Oval, Canberra",Canberra,True,Sydney Thunder,15,runs,DR Sams
+252,88820,2018-19,Sydney Sixers,Perth Scorchers,Sydney Sixers,Batting,Sydney Cricket Ground,Sydney,True,Sydney Sixers,17,runs,SNJ O'Keefe
+253,88821,2018-19,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,Bowling,Carrara Oval,Carrara,True,Hobart Hurricanes,15,runs,DJM Short
+254,88822,2018-19,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Bowling,Adelaide Oval,Adelaide,True,Melbourne Renegades,5,wickets,DT Christian
+255,88823,2018-19,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,6,wickets,DJM Short
+256,88824,2018-19,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,Sydney Showground Stadium,Sydney,True,Sydney Thunder,21,runs,JC Buttler
+257,88825,2018-19,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Bowling,Perth Stadium,Perth,True,Perth Scorchers,7,wickets,JA Richardson
+258,88826,2018-19,Sydney Sixers,Melbourne Stars,Melbourne Stars,Bowling,Sydney Cricket Ground,Sydney,True,Melbourne Stars,5,wickets,PSP Handscomb
+259,88827,2018-19,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,7,wickets,MS Wade
+260,88828,2018-19,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Sydney Sixers,33,runs,BAD Manenti
+261,88829,2018-19,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Aurora Stadium, Launceston",Launceston,True,Hobart Hurricanes,6,wickets,RP Meredith
+262,88830,2018-19,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,20,runs,PM Siddle
+263,88831,2018-19,Brisbane Heat,Sydney Sixers,Sydney Sixers,Bowling,Carrara Oval,Carrara,True,Sydney Sixers,5,wickets,CA Lynn
+264,88832,2018-19,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,7,wickets,MP Stoinis
+265,88833,2018-19,Sydney Thunder,Perth Scorchers,Sydney Thunder,Batting,Sydney Showground Stadium,Sydney,True,Sydney Thunder,1,run,CJ Ferguson
+266,88834,2018-19,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,Bowling,"GMHBA Stadium, South Geelong, Victoria",Geelong,True,Adelaide Strikers,32,runs,J Weatherald
+267,88835,2018-19,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,5,wickets,DJM Short
+268,88836,2018-19,Sydney Thunder,Melbourne Stars,Sydney Thunder,Batting,Carrara Oval,Carrara,True,Melbourne Stars,8,wickets,MP Stoinis
+269,88837,2018-19,Perth Scorchers,Brisbane Heat,Brisbane Heat,Bowling,Perth Stadium,Perth,True,Brisbane Heat,5,wickets,Mujeeb Ur Rahman
+270,88838,2018-19,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Sydney Sixers,6,wickets,JL Denly
+271,88839,2018-19,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,6,wickets,SB Harper
+272,88840,2018-19,Brisbane Heat,Sydney Thunder,Sydney Thunder,Bowling,Sydney Showground Stadium,Sydney,True,Brisbane Heat,15,runs,CA Lynn
+273,88841,2018-19,Melbourne Stars,Perth Scorchers,Perth Scorchers,Bowling,Melbourne Cricket Ground,Melbourne,True,Perth Scorchers,6,wickets,AJ Tye
+274,88842,2018-19,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Melbourne Renegades,8,wickets,SB Harper
+275,88843,2018-19,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Bowling,Adelaide Oval,Adelaide,True,Adelaide Strikers,41,runs,CA Ingram
+276,88844,2018-19,Sydney Thunder,Adelaide Strikers,Sydney Thunder,Batting,Sydney Showground Stadium,Sydney,True,Sydney Thunder,71,runs,SR Watson
+277,88845,2018-19,Brisbane Heat,Melbourne Renegades,Melbourne Renegades,Bowling,Geelong Cricket Ground,Geelong,True,Brisbane Heat,101,runs,M Bryant
+278,88846,2018-19,Sydney Sixers,Perth Scorchers,Perth Scorchers,Bowling,Perth Stadium,Perth,True,Perth Scorchers,7,wickets,CT Bancroft
+279,88847,2018-19,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Hobart Hurricanes,59,runs,DJM Short
+280,88848,2018-19,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,Bowling,Sydney Cricket Ground,Sydney,True,Melbourne Renegades,7,wickets,KW Richardson
+281,88849,2018-19,Sydney Thunder,Brisbane Heat,Sydney Thunder,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,False,,0,,
+282,88850,2018-19,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,Bowling,Perth Stadium,Perth,True,Hobart Hurricanes,4,wickets,GJ Bailey
+283,88851,2018-19,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Stars,6,wickets,MP Stoinis
+284,88852,2018-19,Sydney Sixers,Brisbane Heat,Brisbane Heat,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,79,runs,JM Vince
+285,88853,2018-19,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Hobart Hurricanes,10,wickets,MS Wade
+286,88854,2018-19,Melbourne Renegades,Sydney Thunder,Sydney Thunder,Bowling,Sydney Showground Stadium,Sydney,True,Melbourne Renegades,12,runs,HF Gurney
+287,88855,2018-19,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,Bowling,"Ted Summerton Reserve, Moe",Moe,True,Melbourne Stars,44,runs,BR Dunk
+288,88856,2018-19,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,9,wickets,JR Philippe
+289,88857,2018-19,Perth Scorchers,Sydney Thunder,Sydney Thunder,Bowling,Perth Stadium,Perth,True,Sydney Thunder,6,wickets,CJ Ferguson
+290,88858,2018-19,Melbourne Stars,Brisbane Heat,Brisbane Heat,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,5,runs,MP Stoinis
+291,88859,2018-19,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Bowling,Perth Stadium,Perth,True,Melbourne Renegades,78,runs,CP Tremain
+292,88860,2018-19,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,9,wickets,DJM Short
+293,88861,2018-19,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,8,wickets,BJ Dwarshuis
+294,88862,2018-19,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,27,runs,CJ Boyce
+295,88863,2018-19,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Bowling,"Aurora Stadium, Launceston",Launceston,True,Adelaide Strikers,7,wickets,J Weatherald
+296,88864,2018-19,Perth Scorchers,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,6,wickets,Mujeeb Ur Rahman
+297,88865,2018-19,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,9,wickets,DP Hughes
+298,88866,2018-19,Adelaide Strikers,Brisbane Heat,Brisbane Heat,Bowling,Adelaide Oval,Adelaide,True,Brisbane Heat,6,wickets,MT Renshaw
+299,88867,2018-19,Perth Scorchers,Melbourne Stars,Melbourne Stars,Bowling,Perth Stadium,Perth,True,Perth Scorchers,27,runs,AJ Turner
+300,88868,2018-19,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,16,runs,MS Wade
+301,88869,2018-19,Melbourne Stars,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,10,wickets,BCJ Cutting
+302,88870,2018-19,Perth Scorchers,Adelaide Strikers,Perth Scorchers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,5,wickets,JW Wells
+303,88871,2018-19,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Bowling,"Manuka Oval, Canberra",Canberra,True,Sydney Thunder,4,wickets,PJ Cummins
+304,88872,2018-19,Melbourne Stars,Sydney Sixers,Sydney Sixers,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,94,runs,GJ Maxwell
+305,88873,2018-19,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Bowling,"Bellerive Oval, Hobart",Hobart,True,Melbourne Stars,6,wickets,DJ Worrall
+306,88874,2018-19,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,3,wickets,DT Christian
+307,88875,2018-19,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,13,runs,DT Christian
+308,93820,2019-20,Sydney Thunder,Brisbane Heat,Sydney Thunder,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Sydney Thunder,29,runs,CJ Ferguson
+309,93821,2019-20,Perth Scorchers,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,8,wickets,JR Philippe
+310,93822,2019-20,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,Batting,"Simonds Stadium, South Geelong, Victoria",Geelong,True,Sydney Thunder,6,wickets,AD Hales
+311,93823,2019-20,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,Batting,"Traeger Park, Alice Springs",Alice Springs,True,Hobart Hurricanes,25,runs,Qais Ahmad
+312,93824,2019-20,Melbourne Stars,Brisbane Heat,Brisbane Heat,Bowling,Carrara Oval,Carrara,True,Melbourne Stars,22,runs,GJ Maxwell
+313,93825,2019-20,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Bowling,"Manuka Oval, Canberra",Canberra,False,,0,,
+314,93826,2019-20,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,Bowling,Perth Stadium,Perth,True,Perth Scorchers,11,runs,MR Marsh
+315,93827,2019-20,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,Batting,"Ted Summerton Reserve, Moe",Moe,True,Melbourne Stars,52,runs,Haris Rauf
+316,93828,2019-20,Brisbane Heat,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Brisbane Heat,48,runs,CA Lynn
+317,93829,2019-20,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Bowling,Adelaide Oval,Adelaide,True,Adelaide Strikers,15,runs,J Weatherald
+318,93830,2019-20,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,7,wickets,RP Meredith
+319,93831,2019-20,Sydney Sixers,Perth Scorchers,Perth Scorchers,Bowling,Perth Stadium,Perth,True,Sydney Sixers,48,runs,TK Curran
+320,93832,2019-20,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Bowling,Carrara Oval,Carrara,True,Adelaide Strikers,5,runs,JW Wells
+321,93833,2019-20,Sydney Thunder,Sydney Sixers,Sydney Thunder,Batting,Sydney Cricket Ground,Sydney,True,,0,SuperOver,TK Curran
+322,93834,2019-20,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Adelaide Strikers,18,runs,Rashid Khan
+323,93835,2019-20,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Bowling,"Aurora Stadium, Launceston",Launceston,True,Melbourne Stars,4,runs,NM Coulter-Nile
+324,93836,2019-20,Sydney Thunder,Adelaide Strikers,Sydney Thunder,Batting,Adelaide Oval,Adelaide,True,Sydney Thunder,3,runs,CJ Ferguson
+325,93837,2019-20,Perth Scorchers,Brisbane Heat,Perth Scorchers,Batting,Carrara Oval,Carrara,True,Perth Scorchers,40,runs,Fawad Ahmed
+326,93838,2019-20,Sydney Thunder,Melbourne Stars,Sydney Thunder,Batting,Sydney Showground Stadium,Sydney,True,Melbourne Stars,3,wickets,NCR Larkin
+327,93839,2019-20,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Sydney Sixers,6,wickets,JM Vince
+328,93840,2019-20,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Brisbane Heat,31,runs,CA Lynn
+329,93841,2019-20,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,8,wickets,A Zampa
+330,93842,2019-20,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,Batting,"International Sports Stadium, Coffs Harbour",Coffs Harbour,True,Sydney Sixers,7,wickets,JR Philippe
+331,93843,2019-20,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,Batting,Perth Stadium,Perth,True,Hobart Hurricanes,8,runs,DJM Short
+332,93844,2019-20,Brisbane Heat,Sydney Thunder,Brisbane Heat,Batting,Sydney Showground Stadium,Sydney,True,Brisbane Heat,16,runs,T Banton
+333,93845,2019-20,Melbourne Renegades,Perth Scorchers,Perth Scorchers,Bowling,"Simonds Stadium, South Geelong, Victoria",Geelong,True,Perth Scorchers,6,wickets,LS Livingstone
+334,93846,2019-20,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Bowling,Adelaide Oval,Adelaide,True,Sydney Sixers,2,wickets,TK Curran
+335,93847,2019-20,Sydney Thunder,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,6,wickets,Haris Rauf
+336,93848,2019-20,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,5,wickets,BCJ Cutting
+337,93849,2019-20,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Stars,7,wickets,GJ Maxwell
+338,93850,2019-20,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Bowling,Sydney Showground Stadium,Sydney,True,Sydney Thunder,4,wickets,AD Hales
+339,93851,2019-20,Perth Scorchers,Brisbane Heat,Perth Scorchers,Batting,Perth Stadium,Perth,True,Perth Scorchers,34,runs,MR Marsh
+340,93852,2019-20,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,63,runs,JW Wells
+341,93853,2019-20,Melbourne Stars,Sydney Sixers,Sydney Sixers,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,44,runs,MP Stoinis
+342,93854,2019-20,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Perth Scorchers,77,runs,JP Inglis
+343,93855,2019-20,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,7,wickets,JL Pattinson
+344,93856,2019-20,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,Batting,"Manuka Oval, Canberra",Canberra,True,Melbourne Renegades,12,runs,SB Harper
+345,93857,2019-20,Perth Scorchers,Melbourne Stars,Perth Scorchers,Batting,Perth Stadium,Perth,True,Melbourne Stars,8,wickets,JR Coleman
+346,93858,2019-20,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,Bowling,Sydney Cricket Ground,Sydney,False,,0,,
+347,93859,2019-20,Brisbane Heat,Adelaide Strikers,Brisbane Heat,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,10,wickets,LN O'Connor
+348,93860,2019-20,Melbourne Stars,Perth Scorchers,Melbourne Stars,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,10,runs,GJ Maxwell
+349,93861,2019-20,Sydney Sixers,Sydney Thunder,Sydney Thunder,Bowling,Sydney Showground Stadium,Sydney,True,Sydney Thunder,4,runs,CH Morris
+350,93862,2019-20,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Aurora Stadium, Launceston",Launceston,True,Adelaide Strikers,10,runs,TM Head
+351,93863,2019-20,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Melbourne Renegades,44,runs,CJ Boyce
+352,93864,2019-20,Sydney Sixers,Melbourne Stars,Melbourne Stars,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,21,runs,MC Henriques
+353,93865,2019-20,Sydney Thunder,Perth Scorchers,Sydney Thunder,Batting,Perth Stadium,Perth,True,Perth Scorchers,8,wickets,LS Livingstone
+354,93866,2019-20,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Hobart Hurricanes,4,runs,M Wright
+355,93867,2019-20,Adelaide Strikers,Melbourne Stars,Melbourne Stars,Bowling,Adelaide Oval,Adelaide,True,Adelaide Strikers,11,runs,JW Wells
+356,93868,2019-20,Brisbane Heat,Sydney Sixers,Sydney Sixers,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Sydney Sixers,8,wickets,SNJ O'Keefe
+357,93869,2019-20,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,Batting,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,57,runs,DJM Short
+358,93870,2019-20,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,Batting,Perth Stadium,Perth,True,Adelaide Strikers,16,runs,WA Agar
+359,93871,2019-20,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,7,wickets,SPD Smith
+360,93872,2019-20,Brisbane Heat,Melbourne Stars,Brisbane Heat,Batting,Melbourne Cricket Ground,Melbourne,True,Brisbane Heat,71,runs,AB de Villiers
+361,93873,2019-20,Perth Scorchers,Sydney Thunder,Perth Scorchers,Batting,Sydney Showground Stadium,Sydney,True,Sydney Thunder,7,wickets,AD Hales
+362,93874,2019-20,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,Batting,Adelaide Oval,Adelaide,True,Hobart Hurricanes,10,runs,MS Wade
+363,93875,2019-20,Brisbane Heat,Melbourne Renegades,Brisbane Heat,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,7,wickets,AJ Finch
+364,93876,2019-20,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,Batting,"Bellerive Oval, Hobart",Hobart,True,Sydney Thunder,57,runs,JD Cook
+365,93877,2019-20,Sydney Sixers,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Sydney Sixers,43,runs,SNJ O'Keefe
+366,93878,2019-20,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,Bowling,Adelaide Oval,Adelaide,True,Sydney Thunder,8,runs,AD Hales
+367,93879,2019-20,Melbourne Stars,Sydney Thunder,Melbourne Stars,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,28,runs,NCR Larkin
+368,93880,2019-20,Sydney Sixers,Melbourne Stars,Melbourne Stars,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,19,runs,JR Philippe
+369,97050,2020-21,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,16,runs,TH David
+370,97070,2020-21,Brisbane Heat,Melbourne Stars,Melbourne Stars,Bowling,"Manuka Oval, Canberra",Canberra,True,Melbourne Stars,6,wickets,NM Coulter-Nile
+371,97026,2020-21,Melbourne Stars,Sydney Thunder,Melbourne Stars,Batting,"Manuka Oval, Canberra",Canberra,True,Melbourne Stars,22,runs,A Zampa
+372,97039,2020-21,Perth Scorchers,Melbourne Renegades,Perth Scorchers,Batting,"Bellerive Oval, Hobart",Hobart,True,Melbourne Renegades,7,wickets,JK Lalor
+373,97048,2020-21,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,11,runs,DJM Short
+374,97035,2020-21,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,Bowling,"Bellerive Oval, Hobart",Hobart,True,Sydney Sixers,145,runs,JR Philippe
+375,97064,2020-21,Brisbane Heat,Sydney Thunder,Brisbane Heat,Batting,"Manuka Oval, Canberra",Canberra,True,Sydney Thunder,4,wickets,DR Sams
+376,97061,2020-21,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,Bowling,"Aurora Stadium, Launceston",Launceston,True,Adelaide Strikers,5,wickets,PM Siddle
+377,97065,2020-21,Perth Scorchers,Melbourne Stars,Melbourne Stars,Bowling,"Aurora Stadium, Launceston",Launceston,False,,0,,
+378,97028,2020-21,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,6,wickets,BR McDermott
+379,97071,2020-21,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,Bowling,"Bellerive Oval, Hobart",Hobart,True,Sydney Sixers,38,runs,DT Christian
+380,97029,2020-21,Perth Scorchers,Sydney Thunder,Sydney Thunder,Bowling,"Manuka Oval, Canberra",Canberra,True,Sydney Thunder,7,wickets,CJ Ferguson
+381,97079,2020-21,Adelaide Strikers,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Adelaide Strikers,2,runs,JJ Peirson
+382,97072,2020-21,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Bowling,"Manuka Oval, Canberra",Canberra,True,Sydney Thunder,129,runs,O Davies
+383,97044,2020-21,Melbourne Stars,Sydney Sixers,Sydney Sixers,Bowling,Carrara Oval,Carrara,True,Sydney Sixers,1,wicket,DP Hughes
+384,97066,2020-21,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,4,wickets,L Gregory
+385,97043,2020-21,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Bowling,Adelaide Oval,Adelaide,True,Adelaide Strikers,71,runs,Rashid Khan
+386,97075,2020-21,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,Batting,Carrara Oval,Carrara,True,Sydney Sixers,2,wickets,JO Holder
+387,97052,2020-21,Sydney Thunder,Melbourne Stars,Melbourne Stars,Bowling,"Manuka Oval, Canberra",Canberra,True,Sydney Thunder,75,runs,AD Hales
+388,97073,2020-21,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,Bowling,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Hobart Hurricanes,1,run,Mujeeb Ur Rahman
+389,97068,2020-21,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Bowling,Adelaide Oval,Adelaide,True,Perth Scorchers,7,wickets,JA Richardson
+390,97054,2020-21,Melbourne Renegades,Sydney Thunder,Sydney Thunder,Bowling,Carrara Oval,Carrara,True,Sydney Thunder,7,runs,AD Hales
+391,97042,2020-21,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Bowling,"Bellerive Oval, Hobart",Hobart,True,Hobart Hurricanes,21,runs,SM Boland
+392,97030,2020-21,Sydney Sixers,Brisbane Heat,Sydney Sixers,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,4,wickets,MT Steketee
+393,97051,2020-21,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,Bowling,Perth Stadium,Perth,True,Perth Scorchers,96,runs,JP Inglis
+394,97040,2020-21,Adelaide Strikers,Sydney Sixers,Sydney Sixers,Bowling,Carrara Oval,Carrara,True,Sydney Sixers,7,wickets,JR Philippe
+395,97077,2020-21,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Bellerive Oval, Hobart",Hobart,True,Melbourne Stars,10,runs,MP Stoinis
+396,97049,2020-21,Sydney Thunder,Brisbane Heat,Sydney Thunder,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,5,wickets,JA Burns
+397,97031,2020-21,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,60,runs,RJ Gibson
+398,97027,2020-21,Perth Scorchers,Sydney Sixers,Sydney Sixers,Bowling,Perth Stadium,Perth,True,Perth Scorchers,86,runs,MR Marsh
+399,97069,2020-21,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Bowling,Perth Stadium,Perth,True,Sydney Thunder,39,runs,N McAndrew
+400,97033,2020-21,Brisbane Heat,Melbourne Stars,Melbourne Stars,Bowling,Carrara Oval,Carrara,True,Brisbane Heat,18,runs,CA Lynn
+401,97024,2020-21,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Melbourne Renegades,6,wickets,Mohammad Nabi
+402,97076,2020-21,Perth Scorchers,Sydney Thunder,Sydney Thunder,Bowling,Perth Stadium,Perth,True,Perth Scorchers,17,runs,JA Richardson
+403,97053,2020-21,Brisbane Heat,Sydney Sixers,Sydney Sixers,Bowling,Carrara Oval,Carrara,True,Sydney Sixers,3,wickets,DT Christian
+404,97074,2020-21,Melbourne Stars,Adelaide Strikers,Melbourne Stars,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,5,wickets,WA Agar
+405,97055,2020-21,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,Batting,Perth Stadium,Perth,True,Perth Scorchers,9,wickets,JJ Roy
+406,97059,2020-21,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,"Manuka Oval, Canberra",Canberra,True,Sydney Sixers,5,wickets,SNJ O'Keefe
+407,97041,2020-21,Melbourne Renegades,Brisbane Heat,Brisbane Heat,Bowling,"Manuka Oval, Canberra",Canberra,True,Brisbane Heat,5,wickets,JA Burns
+408,97037,2020-21,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,111,runs,ADS Fletcher
+409,97063,2020-21,Perth Scorchers,Sydney Sixers,Perth Scorchers,Batting,"Manuka Oval, Canberra",Canberra,True,Sydney Sixers,7,wickets,JR Philippe
+410,97062,2020-21,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,Batting,Melbourne Cricket Ground,Melbourne,True,Melbourne Stars,6,wickets,LC Hatcher
+411,97038,2020-21,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,Bowling,"Manuka Oval, Canberra",Canberra,True,Hobart Hurricanes,6,wickets,BR McDermott
+412,97036,2020-21,Perth Scorchers,Brisbane Heat,Brisbane Heat,Bowling,"Docklands Stadium, Melbourne",Melbourne,True,Perth Scorchers,59,runs,C Munro
+413,97067,2020-21,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Melbourne Renegades,5,wickets,MW Harvey
+414,97057,2020-21,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,82,runs,AT Carey
+415,97032,2020-21,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Perth Scorchers,22,runs,JA Richardson
+416,97078,2020-21,Sydney Thunder,Sydney Sixers,Sydney Sixers,Bowling,Adelaide Oval,Adelaide,True,Sydney Thunder,46,runs,AD Hales
+417,97046,2020-21,Brisbane Heat,Melbourne Renegades,Brisbane Heat,Batting,"Docklands Stadium, Melbourne",Melbourne,True,Brisbane Heat,26,runs,M Labuschagne
+418,97047,2020-21,Perth Scorchers,Melbourne Stars,Melbourne Stars,Bowling,Melbourne Cricket Ground,Melbourne,True,Perth Scorchers,11,runs,JJ Roy
+419,97045,2020-21,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,Batting,Adelaide Oval,Adelaide,True,Adelaide Strikers,6,runs,PM Siddle
+420,97025,2020-21,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,Bowling,Melbourne Cricket Ground,Melbourne,True,Hobart Hurricanes,7,runs,MS Wade
+421,97034,2020-21,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Bowling,Adelaide Oval,Adelaide,True,Sydney Thunder,9,wickets,AD Hales
+422,97060,2020-21,Brisbane Heat,Perth Scorchers,Perth Scorchers,Bowling,Adelaide Oval,Adelaide,True,Brisbane Heat,6,runs,M Labuschagne
+423,97058,2020-21,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,Bowling,Melbourne Cricket Ground,Melbourne,True,Melbourne Renegades,11,runs,Z Evans
+424,97056,2020-21,Melbourne Stars,Sydney Sixers,Sydney Sixers,Bowling,Melbourne Cricket Ground,Melbourne,True,Sydney Sixers,5,wickets,BJ Dwarshuis
+425,97081,2020-21,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Batting,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,True,Brisbane Heat,6,wickets,JJ Peirson
+426,97082,2020-21,Perth Scorchers,Sydney Sixers,Perth Scorchers,Batting,"Manuka Oval, Canberra",Canberra,True,Sydney Sixers,9,wickets,JM Vince
+427,97083,2020-21,Sydney Thunder,Brisbane Heat,Brisbane Heat,Bowling,"Manuka Oval, Canberra",Canberra,True,Brisbane Heat,7,wickets,SD Heazlett
+428,97084,2020-21,Perth Scorchers,Brisbane Heat,Brisbane Heat,Bowling,"Manuka Oval, Canberra",Canberra,True,Perth Scorchers,49,runs,LS Livingstone
+429,97080,2020-21,Sydney Sixers,Perth Scorchers,Perth Scorchers,Bowling,Sydney Cricket Ground,Sydney,True,Sydney Sixers,27,runs,JM Vince
